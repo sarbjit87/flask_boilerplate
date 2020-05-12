@@ -10,7 +10,7 @@ Boiler-plate for FLASK
 
 **Setup**
 
-`git clone https://github.com/sarbjit87/capital_gains_loss.git`
+`git clone https://github.com/sarbjit87/flask_boilerplate.git`
 
 `pip install -r requirements.txt`
 
