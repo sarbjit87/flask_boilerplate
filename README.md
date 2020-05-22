@@ -24,6 +24,9 @@ Boiler-plate for FLASK
 
 `python3 run.py`
 
+**Screenshot**
+
+![Demo](screenshot/screenshot.png)
 
 **DISCLAIMER**
 
