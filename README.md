@@ -3,8 +3,8 @@ Boiler-plate for FLASK
 **Features**
 
 - Bootstrap4
-- Font Awesome
-- Basic Authentication with user sign-up, login etc.
+- Bootswatch themes with switch to toggle between light and dark theme
+- Basic Authentication with user sign-up, login, password reset etc
 - LDAP support
 - Flask Migrate for migrations
 
