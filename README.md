@@ -8,6 +8,10 @@ Boiler-plate for FLASK
 - LDAP support
 - Flask Migrate for migrations
 
+**Want to use Background tasks?**
+
+Use this repo [Link](https://github.com/sarbjit87/flask_boilerplate_background_tasks) if you want to run some background tasks i.e. sending email using Redis Queue and RQ worker.
+
 **Setup**
 
 `git clone https://github.com/sarbjit87/flask_boilerplate.git`
